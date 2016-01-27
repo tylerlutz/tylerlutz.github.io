@@ -1,0 +1,150 @@
+nav {
+	background-color: #585858;
+	margin-bottom: 20px;
+	font-weight: 300;
+}
+
+footer{
+	margin-top: 40px;
+	font-weight: 200;
+	color: #473368;
+}
+
+.spacer {
+	margin-top: 30px;
+}
+
+.navpad {
+	margin-top: 70px;
+}
+
+.nav li a {
+	color: #ECECEA;
+}
+
+.nav li a:hover {
+	color: black;
+}
+#active a {
+	color:  #FA8B60;
+}
+
+.navbar-brand {
+	color: #ECECEA;
+	font: cursive;
+}
+
+.navbar-brand:hover {
+	color: white;
+}
+
+.jumbotron{ 
+	background-color: #90C5A9;
+	border: 1px solid gray;
+}
+
+.jumbotron h1 {
+		font-weight: 200;
+}
+
+.jumbotron p {
+	font-weight: 200;
+}
+
+.jumbotron p a {
+	background: #EF6D3B;
+	font-weight: 200;
+}
+
+.jumbotron p a:hover {
+	background: #FA8B60;
+}
+
+.mainTextColor {
+	color: #7A9A95;
+	font-weight: 200;
+}
+
+.secondaryTextColor {
+	color: #473368;
+	font-weight: 200;
+}
+
+.dropdown button {
+	background-color: #EF6D3B;
+	color: white;
+}
+
+.dropdown button:hover {
+	background-color: white;
+	color:#EF6D3B;
+	box-shadow: 1px 1px 1px 2px #cecbc5;
+}
+
+.orangeButton {
+	background-color: #EF6D3B;
+	font-weight: 200;
+	color: white;
+}
+
+.orangeButton:hover {
+	background-color: white;
+	color:#EF6D3B;
+	box-shadow: 1px 1px 1px 2px #cecbc5;
+}
+
+.topRow {
+	margin-bottom: 50px;
+}
+
+.bottomRow {
+	margin-top: 50px;
+}
+
+#stockImage {
+	width: 350px;
+	border-radius: 4px;
+	border: solid white 10px;
+	box-shadow: 1px 1px 1px 2px #cecbc5
+}
+
+.list-group {
+	margin-top: 40px;
+}
+
+.list-group button:hover{
+	color: white;
+	background-color: #FA8B60;
+}
+
+.form-group label {
+	font-size: larger;
+	font-weight: 200;
+}
+
+.form-group input {
+	font-weight: 200;
+}
+
+#comment {
+	height: 150px;
+	font-weight: 200;
+}
+
+.btn-default {
+	font-weight: 200;
+}
+
+.error {
+	border: 2px solid #fb5656;
+	color: #fb5656;
+	box-shadow: 1px 1px 1px 2px #cecbc5
+}
+
+.valid {
+	border: 2px solid #259f31;
+	color: #259f31;
+	box-shadow: 1px 1px 1px 2px #cecbc5
+}
+
+
