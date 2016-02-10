@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      rouge
+
+# Gems
+gems: [jekyll-paginate]
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Tyler Lutz
+tagline:          'Developer'
+description:      'Technology and Development Blog'
+url:              http://tylerlutz.github.io
+baseurl:          /
+
+author:
+  name:           'Tyler Lutz'
+  url:            https://twitter.com/tyler_lutz12
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/tylerlutz
