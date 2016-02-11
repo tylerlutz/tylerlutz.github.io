@@ -250,5 +250,7 @@ a.sidebar-nav-item:focus {
 }
 
 #sidebarImage {
-	width: 150px;
+	width: 200px;
+	display: block;
+	margin: auto;
 }
