@@ -253,4 +253,5 @@ a.sidebar-nav-item:focus {
 	width: 200px;
 	display: block;
 	margin: auto;
+	margin-top: -100px;
 }
