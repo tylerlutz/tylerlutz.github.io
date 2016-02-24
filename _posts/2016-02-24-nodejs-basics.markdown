@@ -5,10 +5,12 @@ date:   2016-02-24 13:00:00 -0500
 categories: tutorials
 ---
 This post was created to explain to you the concepts of NodeJS and tell you what exactly NodeJS is and what it can be used for. We will answer three basic questions; What is NodeJS, What makes NodeJS different?, and What is non blocking?. 
+<br />
+<br />
+NodeJS is a server side language built on Google Chrome's V8 JavaScript Engine. NodeJS is a cross platform is a cross-platform runtime environment that can be ran on Linux, Mac OS X, and Windows. NodeJS is a simply server-side JavaScript that can be used for many different use-cases but the large advantage to Node is that Node can scale very well. Node is scalable due to the fact that it can handle concurrency very well, meaning that if 100 request hit the server at once but the task should only take 2 seconds, then each request should be completed in two seconds. This is different from other server-side languages which would take a request, wait 2 seconds, and then do the next request. 
 
-This tutorial was created to show you the basics of using AngularJS. This simple web application uses a corresponding JSON file for all of its data. The JSON file can be downloaded from the GitHub repository which can be found at the bottom of this tutorial. To help better explain the tutorial, we will show code snippets and images of the application. For better understanding, clone the GitHub repository located at the bottom of this tutorial. Lets get started!
-<br />
-<br />
+
+
 <h3>Requirements</h3>
 
 Before getting started, there are several requirements needed. These requirements are listed below and can be obtained by using Bower. To use Bower, Node Package Manager(npm) needs to be installed onto your system. To install npm, follow <a href="https://docs.npmjs.com/cli/install" target="_blank">this</a> tutorial. 
