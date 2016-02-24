@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AngularJS Basics"
+title:  "NodeJS"
 date:   2016-02-24 13:00:00 -0500
 categories: tutorials
 ---
