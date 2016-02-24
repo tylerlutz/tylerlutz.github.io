@@ -14,7 +14,9 @@ Other than the scalability of Node, there are many other reasons that makes Node
 <br />
 <br />
 The example below was taken from a stack overflow thread illustrating the difference between Blocking and Non-Blocking.
-<img src="img/node_nonbloacking.png">
+<img src="img/node_nonblocking.png" />
+<br />
+Node is a non-blocking language. It continues to work while another task is being completed in the background. As you can see in the example above, the blocking code alerts 1 then waits to alert 2 while the non-blocking code alerts 1, then starts to work on the fetch statement, but goes on to alert 3 while it is waiting for the fetch statement to be completed. Why is this important? Other languages that use the blocking concept are not using all of their resources efficiently i.e. the CPU and RAM. These resources go into idle while waiting for the task to complete. Non-blocking languages allow the program to continue and allows the CPU and Memory to work on other tasks while waiting for that fetch statement to conclude. This allows the program to better utilize the resources and becomes more efficient because there is less idle time in the program. 
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
