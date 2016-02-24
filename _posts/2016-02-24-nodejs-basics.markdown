@@ -4,6 +4,8 @@ title:  "AngularJS Basics"
 date:   2016-02-24 13:00:00 -0500
 categories: tutorials
 ---
+This post was created to explain to you the concepts of NodeJS and tell you what exactly NodeJS is and what it can be used for. We will answer three basic questions; What is NodeJS, What makes NodeJS different?, and What is non blocking?. 
+
 This tutorial was created to show you the basics of using AngularJS. This simple web application uses a corresponding JSON file for all of its data. The JSON file can be downloaded from the GitHub repository which can be found at the bottom of this tutorial. To help better explain the tutorial, we will show code snippets and images of the application. For better understanding, clone the GitHub repository located at the bottom of this tutorial. Lets get started!
 <br />
 <br />
