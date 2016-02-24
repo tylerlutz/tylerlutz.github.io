@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AngularJS Basics"
-date:   2016-02-08 21:45:50 -0500
+date:   2016-02-24 13:00:00 -0500
 categories: tutorials
 ---
 This tutorial was created to show you the basics of using AngularJS. This simple web application uses a corresponding JSON file for all of its data. The JSON file can be downloaded from the GitHub repository which can be found at the bottom of this tutorial. To help better explain the tutorial, we will show code snippets and images of the application. For better understanding, clone the GitHub repository located at the bottom of this tutorial. Lets get started!
