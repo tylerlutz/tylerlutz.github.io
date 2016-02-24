@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "NodeJS - What is it?"
-date:   
+date:   2016-02-24 21:45:50 -0500
 categories: tutorials
 ---
 This post was created to explain to you the concepts of NodeJS and tell you what exactly NodeJS is and what it can be used for. We will answer three basic questions; What is NodeJS, What makes NodeJS different?, and What is non blocking?. 
