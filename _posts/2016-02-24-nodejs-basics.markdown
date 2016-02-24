@@ -14,6 +14,17 @@ Other than the scalability of Node, there are many other reasons that makes Node
 <br />
 <br />
 The example below was taken from a stack overflow thread illustrating the difference between Blocking and Non-Blocking.
+{% highlight javascript %}
+// Blocking: 1,... 2
+alert(1);
+var value = localStorage.getItem('foo');
+alert(2);
+
+// Non-blocking: 1, 3,... 2
+alert(1);
+fetch('example.com').then(() => alert(2));
+alert(3);
+{% endhighlight %}
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
