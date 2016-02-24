@@ -4,7 +4,7 @@
  <title>Tyler Lutz</title>
  <link href="http://tylerlutz.github.io/atom.xml" rel="self"/>
  <link href="http://tylerlutz.github.io/"/>
- <updated>2016-02-24T13:32:07-05:00</updated>
+ <updated>2016-02-24T13:38:38-05:00</updated>
  <id>http://tylerlutz.github.io</id>
  <author>
    <name>Tyler Lutz</name>
@@ -15,7 +15,7 @@
  <entry>
    <title>NodeJS - What is it?</title>
    <link href="http://tylerlutz.github.io/tutorials/2016/02/24/nodejs/"/>
-   <updated>2016-02-24T00:00:00-05:00</updated>
+   <updated>2016-02-24T13:00:00-05:00</updated>
    <id>http://tylerlutz.github.io/tutorials/2016/02/24/nodejs</id>
    <content type="html">&lt;p&gt;This post was created to explain to you the concepts of NodeJS and tell you what exactly NodeJS is and what it can be used for. We will answer three basic questions; What is NodeJS, What makes NodeJS different?, and What is non blocking?. 
 &lt;br /&gt;
